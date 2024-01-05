@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alihan</h1>
 <h3 align="center">Jr/Mid Game Developer [Unity, C#] & Jr 3D Artist</h3><p align="center">
   <img width="460" height="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
-</p>!
+</p>
 
 - 🔭 I’m currently working on **HideAndSeek [Multiplayer]**
 
