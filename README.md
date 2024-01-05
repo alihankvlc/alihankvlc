@@ -1,5 +1,4 @@
-![github-header-image](https://github.com/alihankvlc/alihankvlc/assets/147824938/1e25e9ec-4fba-4d14-9bae-94711211cf1c)
-<h1 align="center">Hi 👋, I'm Alihan</h1>
+![github-header-image (1)](https://github.com/alihankvlc/inventorydemosystem/assets/147824938/9c44513c-46aa-4ead-928f-b2442e3fb5de)
 <h3 align="center">Jr/Mid Game Developer [Unity, C#] & Jr 3D Artist</h3><p align="center">
   <img width="460" height="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 </p>
